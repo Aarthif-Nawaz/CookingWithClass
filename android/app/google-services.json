@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "72775096959",
+    "firebase_url": "https://cooking-with-class.firebaseio.com",
+    "project_id": "cooking-with-class",
+    "storage_bucket": "cooking-with-class.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72775096959:android:95d7a66f85e7c811203d4a",
+        "android_client_info": {
+          "package_name": "com.example.first_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72775096959-6ekmiu7ismfj75vr0t3d3fnicveid7ho.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.first_app",
+            "certificate_hash": "b86e281912af0c7a882663fb0b7094862ce5ba4f"
+          }
+        },
+        {
+          "client_id": "72775096959-telujog73bkpeb6n73apnuki2hal8rkh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP-GlrwdnJE38LPAhsjhfvzwerR9nbb9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72775096959-telujog73bkpeb6n73apnuki2hal8rkh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
